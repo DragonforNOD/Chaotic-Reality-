@@ -1,0 +1,15 @@
+# Credentials and local secrets
+Woldata.key
+*.key
+*.pfx
+*.pem
+*.ppk
+.env
+
+# Local client state and diagnostics
+Client/client*.log
+Client/ClientCrashLogs/
+Client/friend_list
+Client/ignore_list
+Client/recent_list
+Saved Games/
